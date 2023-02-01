@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Payment Workflow</string>
+    <string name="security">SECURED BY KINETIC SMART SOLUTIONS LIMITED</string>
+    <string name="payment_choice">How would you like to pay?</string>
+    <string name="account">Pay with Bank Account</string>
+    <string name="card">Pay with Card</string>
+    <string name="card_holder_name">Card holder name</string>
+    <string name="card_holder_number">Card number</string>
+    <string name="exipry_date">Expiry date</string>
+    <string name="cvc">CVC</string>
+    <string name="code">1234…</string>
+    <string name="pay">Pay</string>
+    <string name="pin">PIN</string>
+    <string name="otp">OTP</string>
+    <string name="next">NEXT</string>
+    <string name="enter">ENTER</string>
+    <string name="receipt">Save Receipt</string>
+    <string name="successful">Payment Successful!</string>
+    <string name="card_pin_note">Please enter your card pin to continue your transaction.</string>
+    <string name="otp_note">Please enter the OTP that was sent to your phone number.</string>
+    <string name="account_note">Please correctly enter the details below.</string>
+</resources>
